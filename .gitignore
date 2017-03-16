@@ -12,7 +12,7 @@ buildNumber.properties
 /.project
 /.settings
 .idea/*
-
+lib
 *.iml
 *.iws
 *.ipr
